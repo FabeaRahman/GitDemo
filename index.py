@@ -4,6 +4,8 @@ print (" first type 'cd Desktop' then 'mkdr ' folder name' ' ")
 print(" type in git bash terminal - 'git init' ")
 # to go to a folder 
 print (" type 'cd Desktop' then 'cd 'folder name' ' ")
+# to check where the folder is in pc or laptop
+print ("type 'dir 'in the terminal ")
 # to clone a remote repo in the folder
 print(" type 'git clone 'repos https link' ")
 # to run a file in a folder by git bush
