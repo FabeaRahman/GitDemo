@@ -27,3 +27,9 @@ print (" type 'git log --oneline --graph --all ' ")
 print (" type 'git push origin main ' ")
 # to push the sub branch 
 print (" type ' git push origin 'branch name' ' ")
+# to chek the history 
+print (" type ' git log '")
+# to check the short history
+print (" type 'git log --oneline' ")
+# to get out from the git log
+print (" type 'q'")
