@@ -26,6 +26,7 @@ print (" type 'git diff ' but befor pushing it in the real repo cos local repo(p
 print("type 'touch .gitignore' ")
 # then go to the editor to edit gitignore by code / notepad
 #__pycache__/ → Python cache folder ignore ,*.pyc → compiled python file ignore ,*.log → log file ignore ,.env → secret/env file ignore ,venv/ → virtual environment ignore 
+# then add commit and puch to the git
 
 
 
