@@ -22,3 +22,11 @@ print ("type ' git commit -m 'the comment you want to add' ")
 print (" type 'git push or git push origin main ' in the vs code terminal or git bash terminal")
 # to check the diff between the past edit and new 
 print (" type 'git diff ' but befor pushing it in the real repo cos local repo(pc/laptop) and remote repo(main repo where to change) merged")
+# to create e gitignore file 
+print("type 'touch .gitignore' ")
+# then go to the editor to edit gitignore by code / notepad
+#__pycache__/ → Python cache folder ignore ,*.pyc → compiled python file ignore ,*.log → log file ignore ,.env → secret/env file ignore ,venv/ → virtual environment ignore 
+
+
+
+
