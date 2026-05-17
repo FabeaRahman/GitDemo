@@ -27,7 +27,7 @@ print("type 'touch .gitignore' ")
 # then go to the editor to edit gitignore by code / notepad
 #__pycache__/ → Python cache folder ignore ,*.pyc → compiled python file ignore ,*.log → log file ignore ,.env → secret/env file ignore ,venv/ → virtual environment ignore 
 # then add commit and puch to the git
-# to download and merge details from GitHub to local pc manually without 'pull'
+# to download and merge details from GitHub to local pc manually without 'pull' using fetch and merge
 print (" type 'git fetch origin'")
 print (" type 'git log main..origin/main {from which branch the changes occurs} --oneline' ")# to check the history of changes in GitHub but still not present in local device
 print (" type 'git merge origin/main '")
