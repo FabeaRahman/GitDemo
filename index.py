@@ -12,7 +12,7 @@ print (" type 'git clone 'repos https link' ")
 print (" first type file type then file name , like : 'python index.py' ")
 # to edit the file 
 print(" type 'notepad index.py' or 'code index.py' or to open the full folder in vs code 'code . '")
-# to check
+# to check if it is upto date
 print (" type 'git status ' in the terminal")
 # to save
 print (" type 'git add .' ")
