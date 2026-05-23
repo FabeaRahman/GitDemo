@@ -12,3 +12,4 @@ def greet():
 
 greet()
 
+print("stash practice")
